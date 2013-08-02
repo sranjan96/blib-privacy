@@ -31,13 +31,13 @@ The only thing Blib keeps log of is the amount of time spent on the site.
 **Third Party Data**: Blib is connected to Google in such that you need a Google account. The only 
 information extracted from the user’s Google account is their name and email address. 
 
-Business Transfers: If Blib were to go bankrupt and assets were to be sold to a buyer, all information 
+**Business Transfers**: If Blib were to go bankrupt and assets were to be sold to a buyer, all information 
 
 stored would be sold to the new owners of Blib. 
 
-Age Policy: Blib does not have an age restriction and this information is not collected from the user.
+**Age Policy:** Blib does not have an age restriction and this information is not collected from the user.
 
-Policy Changes: These policies are subject to be revised over time. When the revisions will be effective, 
+**Policy Changes:** These policies are subject to be revised over time. When the revisions will be effective, 
 
 we will update the policy and notify the users. 
 
